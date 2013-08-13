@@ -1,0 +1,8 @@
+El Trabajo práctivo Nº1 se encuentra disponible en 
+https://docs.google.com/a/tecnom.com.ar/document/d/11MLBpMbraOumKLliMmMqXsEzNz9gxzEaIRGm0nkyui8/edit
+
+Para el ejercicio 1c es recomendable utilizar un validador de XML online tipo http://www.w3schools.com/xml/xml_validator.asp o alguno equivalente
+
+Para el ejercicio 3 es recomendable utilizar un validador de Json online tipo http://jsonlint.com/ o alguno equivalente
+
+Para VERIFICAR el ejercicio 4 se puede utilizar un convertidor de XML a Json tipo http://www.utilities-online.info/xmltojson/

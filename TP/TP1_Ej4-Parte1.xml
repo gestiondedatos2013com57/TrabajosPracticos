@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<personas>
+		<nombre>Pedro Sanchez</nombre>
+		<ciudad>La Plata</ciudad>
+		<edad>23</edad>
+		<club>Boca Juniors</club>
+	</personas>
+	<personas>
+		<nombre>Juan Tevez</nombre>
+		<ciudad>La Plata</ciudad>
+		<edad>23</edad>
+		<club>Gimnasia y Esgrima La Plata</club>
+	</personas>
+	<personas>
+		<nombre>Mario Scala</nombre>
+		<ciudad>La Plata</ciudad>
+		<edad>23</edad>
+		<club>Boca Juniors</club>
+	</personas>

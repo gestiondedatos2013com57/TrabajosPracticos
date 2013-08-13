@@ -1,0 +1,26 @@
+{
+	"personas": [
+			{
+				"nombre" : "Pedro Sanchez",
+				"ciudad" : "La Plata",
+				"edad" : 23,
+				"hijos" : [
+					{ "nombre" : "Martin" }
+				]
+			},
+			{
+				"nombre" : "Juan Tevez",
+				"ciudad" : "La Plata",
+				"edad" : 23,
+				"hijos" : [
+					{ "nombre" : "Catalina" },
+					{ "nombre" : "Josefina" }
+				]
+			},
+			{
+				"nombre" : "Mario Scala",
+				"ciudad" : "La Plata",
+				"edad" : 23				
+			}
+		]
+}

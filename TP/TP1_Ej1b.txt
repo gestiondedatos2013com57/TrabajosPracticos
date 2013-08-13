@@ -1,0 +1,9 @@
+La Plata,Pedro Sanchez,23 años
+La Plata,Juan Tevez,23 años
+La Plata,Mario Scala,23 años
+Berisso,Marina Lopez,25 años
+Berisso,Maria Gimenez,20 años
+Berisso,Jose Trano,30 años
+Ensenada,Ariel Mango,18 años
+Ensenada,Ulises Prio,28 años
+Ensenada,Marta Perez,60 años
