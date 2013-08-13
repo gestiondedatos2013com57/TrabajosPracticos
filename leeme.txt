@@ -1,0 +1,9 @@
+Universidad Tecnológica Nacional
+Facultad regional de La Plata
+Carrera Ingenieria en Sistemas de Información
+Materia Gestion de datos - 3er año
+Comision 57 turno mañana 
+Cursada año 2013
+
+
+Este es el repositorio GitHub de la práctica. Se incluirán trabajos prácticos y documentación complementaria  
