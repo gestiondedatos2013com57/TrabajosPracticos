@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Ejercicio adicional 2 parte 1</title>
+    <style>
+        body {
+            font-family:Arial;
+        }
+
+    </style>
+</head>    
+
+<body>
+    <h1>Ejercicio adicional 2 parte 1</h1>
+    <h3>Parseo de Json del ejercicio 3 del trabajo practico 1</h3>
+    <h5>Ingrese el texto en formato JSON a parsear</h5>
+    <textarea id="TextoAParsear" style="width:100%; height:150px"></textarea>
+    <button onclick="javascript:ParsarJson();" >Parsear JSON</button>
+    <div id="Resultado" style="display:none" ></div>
+
+    <script>
+        function ParsarJson()
+        {
+            var ResultadoString = '';
+            var StringAParsear = document.getElementById('TextoAParsear').value;
+            var obj=null;
+            ResultadoString = ResultadoString + '<strong>Texto a parsear: </strong>' + StringAParsear + '<br><br>';
+            try
+            {
+                obj = JSON.parse(StringAParsear);
+                ResultadoString = ResultadoString + '<strong>Parseo: </strong>correcto<br>';
+
+                if (obj.personas) {
+                    ResultadoString = ResultadoString + 'Se encontró el campo personas y tiene '+obj.personas.length.toString()+' elementos<br>';
+                }
+                else
+                {
+                    ResultadoString = ResultadoString + 'No se encontró el campo personas<br>';
+                }
+            }
+            catch (err)
+            {
+                ResultadoString = ResultadoString + '<strong>Parseo: </strong>incorrecto<br>';
+                console.log(err)
+            }
+            var DivResultado = document.getElementById('Resultado');
+            if (DivResultado) {
+                DivResultado.innerHTML = ResultadoString;
+                DivResultado.style.display = '';
+            }
+        }
+    </script>
+</body>
+    
+</html>
