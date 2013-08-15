@@ -1,0 +1,47 @@
+<datos>
+	<persona>
+		<ciudad>La Plata</ciudad>
+		<nombre>Pedro Sanchez</nombre>
+		<edad>23 años</edad>
+	</persona>
+	<persona>
+		<ciudad>La Plata</ciudad>
+		<nombre>Juan Tevez</nombre>
+		<edad>23 años</edad>		
+	</persona>
+	<persona>
+		<ciudad>La Plata</ciudad>
+		<nombre>Mario Scala</nombre>
+		<edad>23 años</edad>
+	</persona>
+	<persona>
+		<ciudad>Berisso</ciudad>
+		<nombre>Marina Lopez</nombre>
+		<edad>25 años</edad>
+	</persona>
+	<persona>
+		<ciudad>Berisso</ciudad>
+		<nombre>Maria Gimenez</nombre>
+		<edad>20 años</edad>
+	</persona>	
+	<persona>
+		<ciudad>Berisso</ciudad>
+		<nombre>Jose Trano</nombre>
+		<edad>30 años</edad>
+	</persona>
+	<persona>
+		<ciudad>Ensenada</ciudad>
+		<nombre>Ariel Mango</nombre>
+		<edad>18 años</edad>
+	</persona>	
+	<persona>
+		<ciudad>Ensenada</ciudad>
+		<nombre>Ulises Prio</nombre>
+		<edad>28 años</edad>
+	</persona>	
+	<persona>
+		<ciudad>Ensenada</ciudad>
+		<nombre>Marta Perez</nombre>
+		<edad>60 años</edad>
+	</persona>	
+</datos>
