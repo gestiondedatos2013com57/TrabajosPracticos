@@ -1,0 +1,14 @@
+
+
+Aqui les paso alguna documentación complementaria en formato Podcast (Audio) sobre temas adicionales
+
+Podcast de la vida de Alan Turing
+http://noticias21.libsyn.com/la-biblioteca-de-alejandria-40-2012-09-21
+
+
+Podcasts del tema NoSQL
+http://www.javahispano.org/podcast/2011/10/16/javahispano-podcast-123-nosql-y-voldemort.html
+http://www.32minutos.net/?p=15
+
+Contenido del indice temático de la clase de NoSQL (muy resumido)
+https://docs.google.com/a/tecnom.com.ar/presentation/d/1q84nUjAaIZsRx3VUsuvLpbGmleKzxkUJLab5VyrK5MM/edit#slide=id.g3f62baae_0_24
